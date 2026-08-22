@@ -41,12 +41,12 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,oracle,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Status
 
 <table width="100%">
   <tr>
@@ -65,7 +65,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiSamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
-
----
-
-<p align="center"><i>Thanks for stopping by! Feel free to check out my pinned repos below ⬇️</i></p>
