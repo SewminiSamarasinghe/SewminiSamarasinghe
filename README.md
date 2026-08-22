@@ -21,8 +21,8 @@
 - 🔭 I'm currently working on exciting **full-stack** projects
 - 🌱 I'm currently exploring new **frameworks & cloud tools**
 - 💬 Ask me about **JavaScript, Python, React, Flask, Flutter**
+- 💼 🔗 Skilled in ERP-to-web integration using REST APIs
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/sewmini-samarasinghe)
 
 <br clear="right"/>
 
