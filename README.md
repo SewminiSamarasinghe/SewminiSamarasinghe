@@ -35,7 +35,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,oracle.c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,oracle,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
 </p>
 
 ---
