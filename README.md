@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Python;Fast+learner.+Faster+builder." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;JavaScript+%7C+Python+%7C+React;Fast+learner.+Faster+builder." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SewminiSamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pavithkulathunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithkulathunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
