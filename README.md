@@ -7,25 +7,25 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SewminiSamarasinghe&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/pavithkulathungaSewminiSamarasinghe?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+  <img src="https://img.shields.io/github/followers/SewminiSamarasinghe?label=Followers&style=flat&color=2E9EF7" alt="followers" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on exciting **full-stack and mobile** projects
+- 🔭 I'm currently working on exciting **full-stack** projects
 - 🌱 I'm currently exploring new **frameworks & cloud tools**
-- 💬 Ask me about **JavaScript, React, Node.js, Python, Android**
+- 💬 Ask me about **JavaScript, Python, React, Flask, Flutter**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
-- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/pavithkulathunga)
+- 📫 Reach me at: [LinkedIn](https://linkedin.com/in/sewmini-samarasinghe)
 
 ---
 
 ### 🌐 Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/pavithkulathunga" target="_blank">
+<a href="https://linkedin.com/in/sewmini-samarasinghe" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
@@ -43,16 +43,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavithkulathunga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithkulathunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SewminiSamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SewminiSamarasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithkulathunga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SewminiSamarasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithkulathunga&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiSamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
