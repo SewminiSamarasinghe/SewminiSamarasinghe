@@ -35,24 +35,29 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,oracle,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SewminiSamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=SewminiSamarasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<table width="100%">
+  <tr>
+    <td width="27%" align="left">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SewminiSamarasinghe&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+    </td>
+    <td width="46%" align="center">
+      <img src="https://streak-stats.demolab.com/?user=SewminiSamarasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+    <td width="27%" align="right">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SewminiSamarasinghe&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SewminiSamarasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiSamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiSamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
