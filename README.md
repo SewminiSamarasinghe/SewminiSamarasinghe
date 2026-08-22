@@ -1,3 +1,5 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://linkedin.com/in/sewmini-samarasinghe)
+
 <h1 align="center">Hi 👋, I'm Sewmini Samarasinghe</h1>
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
@@ -12,6 +14,8 @@
 
 ---
 
+<img align="right" alt="Coding gif" width="400" src="https://github.com/user-attachments/assets/31564b53-bb18-46a4-b812-a897b79c590f">
+
 ### 🚀 About Me
 
 - 🔭 I'm currently working on exciting **full-stack** projects
@@ -19,6 +23,8 @@
 - 💬 Ask me about **JavaScript, Python, React, Flask, Flutter**
 - ⚡ Fun fact: I love turning complex problems into simple, beautiful solutions
 - 📫 Reach me at: [LinkedIn](https://linkedin.com/in/sewmini-samarasinghe)
+
+<br clear="right"/>
 
 ---
 
@@ -35,7 +41,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=azure,bootstrap,python,postgresql,flask,oracle,flutter,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
 </p>
 
 ---
