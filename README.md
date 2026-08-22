@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Turning+ideas+into+beautiful+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;Fast+learner.+Faster+builder." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pavithkulathunga&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/pavithkulathunga?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=SewminiSamarasinghe&label=Profile%20views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/pavithkulathungaSewminiSamarasinghe?label=Followers&style=flat&color=2E9EF7" alt="followers" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=android,azure,bootstrap,python,c,cpp,css,figma,firebase,git,bitbucket,odoo,oracle,netsuite,flask,postgresql,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=android,azure,bootstrap,python,postgresql,flask,c,cpp,css,express,figma,firebase,git,html,java,js,kotlin,linux,mongodb,mysql,nodejs,photoshop,php,postman,py,react,tailwind" alt="tech stack" />
 </p>
 
 ---
@@ -43,16 +43,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sewminisamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sewminisamarasinghe&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SewminiSamarasinghe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithkulathunga&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sewminisamarasinghe&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithkulathunga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sewminisamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavithkulathunga&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
 </p>
 
 ---
