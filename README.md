@@ -65,3 +65,5 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiSamarasinghe&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </p>
+
+<p align="center"><i>Thanks for stopping by! Feel free to check out my pinned repos below ⬇️</i></p>
